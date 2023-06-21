@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Aditya</h1>
+<h1 align="center">Hey there</h1>
 
 ✨ I love the Android platform
 
