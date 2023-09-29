@@ -2,7 +2,7 @@
 
 ✨ I love the Android platform
 
-🌱 I’m currently learning **Android and Web development, and game design using Godot**
+🌱 I’m currently learning **mobile and web development, and game design using Godot**
 
 📫 You can reach me on Matrix at **@tristarvoid:matrix.org**
 
