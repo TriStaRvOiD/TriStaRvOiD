@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **mobile and web development, and game design using Godot**
 
-📫 You can reach me on Matrix at **@tristarvoid:matrix.org**
+📫 Mail me at **tristarvoid@gmail.com**
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tristarvoid&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="tristarvoid" /></p>
