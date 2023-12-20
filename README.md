@@ -1,4 +1,4 @@
-<h1 align="center">Hey there</h1>
+# Hey there
 
 ✨ I love the Android platform
 
@@ -6,12 +6,17 @@
 
 📫 Mail me at **tristarvoid@gmail.com**
 
+# Technologies
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tristarvoid&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="tristarvoid" /></p>
+# Stats
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tristarvoid&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="tristarvoid's github stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristarvoid&show_icons=true&theme=highcontrast&locale=en" alt="tristarvoid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tristarvoid&theme=highcontrast" alt="tristarvoid" /></p>
-
-<h3 align="left">To support my work:</h3>
-<p><a href="https://www.buymeacoffee.com/TriStaRvOiD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="TriStaRvOiD" /></a><a href="https://ko-fi.com/TriStaRvOiD"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="TriStaRvOiD" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristarvoid&show_icons=true&theme=highcontrast&locale=en" alt="tristarvoid's github stats" /></p>
