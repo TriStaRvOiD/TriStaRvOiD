@@ -19,6 +19,10 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 # Stats
+
+<!-- GitHub profile views counter from https://github.com/antonkomarev/github-profile-views-counter -->
+![](https://komarev.com/ghpvc/?username=tristarvoid&style=for-the-badge)
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tristarvoid&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="tristarvoid's github stats" /></p>
 
