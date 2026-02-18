@@ -2,7 +2,7 @@
 
 ✨ I love the Android platform
 
-🌱 I’m currently advancing in **mobile development** and learning **cybersecurity**
+🌱 I’m currently advancing in **mobile application development** and exploring **cybersecurity**
 
 📫 Mail me at **aditya@tristarvoid.com**
 
