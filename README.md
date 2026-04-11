@@ -1,6 +1,6 @@
 # Hey there
 
-✨ I love the Android platform
+✨ I love mobile platforms
 
 🌱 I’m currently advancing in **mobile application development** and exploring **cybersecurity**
 
